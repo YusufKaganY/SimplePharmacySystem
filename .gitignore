@@ -13,11 +13,9 @@
 *.cache
 
 ## SQL Server Yerel Veritabanı Dosyaları ##
-# (Eğer veritabanı dosyalarını repoda tutmak istemiyorsan bunları aç)
 *.mdf
 *.ldf
 
-## Resharper / Diğer Eklentiler (Kullanıyorsan) ##
 _ReSharper*/
 *.ReSharper
 
